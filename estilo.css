@@ -1,3 +1,10 @@
+body{
+    background-image: url(img/b88326c5a42965963dc961057f66bbf2.gif);
+    background-size: cover;
+    background-attachment:fixed;
+}
+
+
 *{
     margin:0;
     padding:0;
